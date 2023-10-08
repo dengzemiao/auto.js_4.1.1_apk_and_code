@@ -19,3 +19,5 @@
 - 基于 Mozilla Public License Version 2.0 并附加以下条款：
 
   非商业性使用 — 不得将此项目及其衍生的项目的源代码和二进制产品用于任何商业和盈利用途
+
+- [其他版本 - 破解版 apk 下载](https://github.com/dengzemiao/auto.js)
